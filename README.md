@@ -3,4 +3,4 @@
 ### _Sou estudante do Colégio Humberto de Campos_
 #### _Minha turma é o 1B_
 ##### _Disciplina de Pensamento Computacional_
-###### [clique aqui](https://youtu.be/pJS_5Ln2axM) :upside_down_fa
+###### [clique aqui](https://youtu.be/pJS_5Ln2axM) 
